@@ -8,7 +8,7 @@ id: litvis
 # GLOBAL LEVELS OF AIR POLLUTION
 
 {(whoami|} 
-Karin Falconer-Bailey | karin.falconer-bailey@city.ac.uk {|whoami)}
+Karin Falconer-Bailey {|whoami)}
 
 While there are debates around the time which the climate change movement began, it is undeniable that within the past decade we have seen significant amounts of discussion regarding the Earth's environmental changes. The United States Environment Protection Agency (EPA) identifies the two umbrella sources of climate change as "*human drivers*" and "*natural drivers*" (EPA, 2022). Under human drivers, we have occurrences such as deforestation and road construction while natural drivers are accounted for by natural disasters, the sun's intensity, and so forth. Air pollution, both a natural and human driver, has an interchangeable relationship with climate change. In the sense that air pollutants contribute to climate change, and climate change worsens the quality of air.
 
