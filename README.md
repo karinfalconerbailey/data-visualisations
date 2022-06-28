@@ -1,6 +1,4 @@
 # data-visualisations
-
-# Machine-Learning
 Author: Karin Falconer-Bailey
 
 # Introduction
